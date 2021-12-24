@@ -5,9 +5,9 @@ Shows the missing recipes/skills for a tradeskill and where to get them
 Supported TradeSkills: All but enchanting!<br />
 Beware: Not all trainer skills have the correct minimum skill required or price
 
-Download [latest release](https://github.com/Thumbkin/MissingTradeSkillsList/raw/master/releases/MissingTradeSkillsList_latest.zip)
 
-![MTSL for First Aid](https://github.com/Thumbkin/MissingTradeSkillsList/raw/master/images/screenshot_firstaid.png)
+![MTSL for First Aid](https://i.imgur.com/UEn9CId.png)
+![MTSL for Alchemy](https://i.imgur.com/jacvhFN.png)
 
 ## Known Bugs
 7: ToggleButton does not correctly move when viewing or hiding tradeskillframe & craftframe at same time<br />
