@@ -1,0 +1,73 @@
+## Interface: 11200
+## Title: Missing TradeSkills List
+## Author: Thumbkin
+## Notes: Shows missing skills & recipes for a profession and where to get them.
+## Version: 0.90
+
+# Core
+Tools.lua
+MissingTradeSkillsList.lua
+
+# Data files
+Data\Npcs.lua
+Data\Objects.lua
+Data\Quests.lua
+
+# Alchemy
+Data\Alchemy\Alchemy_Levels.lua
+Data\Alchemy\Alchemy_Skills.lua
+Data\Alchemy\Alchemy_Items.lua
+
+# Blacksmithing
+Data\Blacksmithing\Blacksmithing_Levels.lua
+Data\Blacksmithing\Blacksmithing_Skills.lua
+Data\Blacksmithing\Blacksmithing_Items.lua
+
+# Cooking
+Data\Cooking\Cooking_Levels.lua
+Data\Cooking\Cooking_Skills.lua
+Data\Cooking\Cooking_Items.lua
+
+# Enchanting
+Data\Enchanting\Enchanting_Levels.lua
+Data\Enchanting\Enchanting_Skills.lua
+Data\Enchanting\Enchanting_Items.lua
+
+# Engineering
+Data\Engineering\Engineering_Levels.lua
+Data\Engineering\Engineering_Skills.lua
+Data\Engineering\Engineering_Items.lua
+
+# First Aid
+Data\FirstAid\FirstAid_Levels.lua
+Data\FirstAid\FirstAid_Skills.lua
+Data\FirstAid\FirstAid_Items.lua
+
+# Leatherworking
+Data\Leatherworking\Leatherworking_Levels.lua
+Data\Leatherworking\Leatherworking_Skills.lua
+Data\Leatherworking\Leatherworking_Items.lua
+
+# Mining
+Data\Mining\Mining_Levels.lua
+Data\Mining\Mining_Skills.lua
+Data\Mining\Mining_Items.lua
+
+# Tailoring
+Data\Tailoring\Tailoring_Levels.lua
+Data\Tailoring\Tailoring_Skills.lua
+Data\Tailoring\Tailoring_Items.lua
+
+# UI
+UI\Fonts.lua
+UI\CoreUI.lua
+UI\VerticalSlider.lua
+UI\ToggleButton.lua
+UI\MissingTradeSkillsListFrame.lua
+UI\MTSLF\TitleFrame.lua
+UI\MTSLF\MissingSkillsListFrame.lua
+UI\MTSLF\MSLF\SkillButton.lua
+UI\MTSLF\DetailsSelectedSkillFrame.lua
+UI\MTSLF\NoSkillSelectedFrame.lua
+UI\MTSLF\EverySkillLearnedFrame.lua
+UI\MTSLF\ProgressBar.lua
